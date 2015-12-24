@@ -53,6 +53,7 @@ after_script:
 #  - killall rethinkdb
   - npm list
   - npm list -global
+  - npm shrinkwrap
 cache:
   directories:
     - node_modules
