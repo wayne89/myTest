@@ -47,7 +47,7 @@
     "express-validator": "^2.18.0",
     "formidable": "^1.0.17",
     "gm": "^1.21.1",
-    "hipchatter": "^0.2.0",
+    "hipchatter": "^0.3.0",
     "http-proxy": "^1.11.2",
     "in-publish": "^2.0.0",
     "jade": "^1.9.2",
