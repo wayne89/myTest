@@ -141,7 +141,7 @@
     "webpack-dev-server": "^1.14.0"
   },
   "engines": {
-    "node": ">= 0.10"
+    "node": ">= 4"
   },
   "preferGlobal": true
 }
