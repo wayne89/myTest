@@ -123,7 +123,7 @@
     "less": "^2.4.0",
     "less-loader": "^2.2.2",
     "memory-fs": "^0.2.0",
-    "node-libs-browser": "^0.5.2",
+    "node-libs-browser": "^2.0.0",
     "node-sass": "^3.4.2",
     "phantomjs": "^1.9.19",
     "protractor": "^3.0.0",
