@@ -44,7 +44,7 @@
     "debug": "^2.2.0",
     "eventemitter3": "^0.1.6",
     "express": "^4.13.3",
-    "express-validator": "^2.18.0",
+    "express-validator": "^3.1.1",
     "formidable": "^1.0.17",
     "gm": "^1.21.1",
     "hipchatter": "^0.2.0",
