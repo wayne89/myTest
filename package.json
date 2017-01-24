@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "adbkit": "^2.3.1",
-    "adbkit-apkreader": "^1.0.0",
+    "adbkit-apkreader": "^2.0.0",
     "adbkit-monkey": "^1.0.1",
     "aws-sdk": "^2.2.3",
     "bluebird": "^2.9.34",
